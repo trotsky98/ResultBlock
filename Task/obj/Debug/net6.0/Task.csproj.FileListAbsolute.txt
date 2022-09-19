@@ -1,0 +1,15 @@
+D:\GeeckBrains\1 четверть\ResultBlock\Task\bin\Debug\net6.0\Task.exe
+D:\GeeckBrains\1 четверть\ResultBlock\Task\bin\Debug\net6.0\Task.deps.json
+D:\GeeckBrains\1 четверть\ResultBlock\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\GeeckBrains\1 четверть\ResultBlock\Task\bin\Debug\net6.0\Task.dll
+D:\GeeckBrains\1 четверть\ResultBlock\Task\bin\Debug\net6.0\Task.pdb
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.dll
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\refint\Task.dll
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.pdb
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\GeeckBrains\1 четверть\ResultBlock\Task\obj\Debug\net6.0\ref\Task.dll
